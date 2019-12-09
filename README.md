@@ -25,11 +25,15 @@ rspec
 ### **Execução**
 Todos os cenários execute o comando:
 
-*cucumber*
+```
+cucumber
+```
 
 Cenário específico execute o comando com a tag do BDD:
 
-*cucumber -t @tag*
+```
+cucumber -t @tag
+```
 
 
 ### **Evidências e Relatório**
