@@ -42,5 +42,7 @@ Após a execução será criado um diretório na pasta raíz de nome screenshot 
 
 ### **Documentação**
 [Appium Docs](http://appium.io/docs/en/about-appium/api/#appium-api-documentation)
+<p> <br />
 [Ruby Docs](https://ruby-doc.org/)
+<p> <br />
 [Cucumber Docs](https://cucumber.io/docs/cucumber/)
