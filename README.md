@@ -1,8 +1,8 @@
 <h2>Cadastro de Clientes</h2>
 O objetivo deste projeto é realizar um CRUD de clientes no app Cadastro de Clientes, utilizando Ruby com BDD.
 
-<p></p>
-<h4>Utilizado</h4>
+
+*Utilizado*
 Ruby 2.6.3p62
 Appium Server v1.13.0
 Android Strudio (simulador)
