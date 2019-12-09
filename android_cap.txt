@@ -1,0 +1,11 @@
+[caps]
+platformName = 'android'
+deviceName = 'Pixel XL API 26'
+app = 'features/app/Android/cadastro_clientes_teste.apk'
+#appPackage = 'br.com.dudstecnologia.cadastrodeclientes'
+#appActivity = 'br.com.dudstecnologia.cadastrodeclientes.MainClientes'
+#automationName = ''    
+noReset= 'true'
+#fullReset = 'false'
+autoAcceptAlerts = 'true'
+autoGrantPermissions = 'true'

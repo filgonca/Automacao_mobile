@@ -1,0 +1,37 @@
+# frozen_string_literal: true
+
+# lista de chave valor utilizada como massa de dados
+CREDENCIAL = {
+  campo_nome: "AMErico Digitoncio",
+  campo_rg: "12345678",
+  campo_org_emissor: "ssp",
+  campo_cpf: "12345678900",
+  campo_data_nascimento: "03122019",
+  campo_nome_mae: "AMElia",
+  campo_nome_pai: "AMEnotep",
+  campo_endereco: "Rua AMEricanopolis Digitopolis",
+  campo_numero: "1125",
+  campo_bairro: "AMEnalia",
+  campo_cep: "01234567",
+  campo_cidade: "AMEtista",
+  lista_uf: "AM",
+  campo_naturalidade: "AMErilandia",
+  campo_fone_1: "40032120",
+  campo_fone_2: "40032120",
+  campo_email: "AMErico@amedigital.com",
+  campo_obs: "Ame o que voce faz. Faca o que voce ama.",
+  campo_empresa: "AME Digital",
+  campo_cargo: "QA Engeneer",
+  campo_endereco_empresa: "Rua Fidencio Ramos",
+  campo_cep_empresa: "04551010",
+  campo_telefone_empresa: "40032120",
+  campo_data_admissao: "01012020",
+  campo_renda: "10000",
+  campo_fone_ref_1: "40032120",
+  campo_fone_ref_2: "40032120",
+  campo_banco: "AME Bank",
+  campo_agencia: "0001",
+  campo_conta: "000001",
+  campo_nome_mae_completo: "AMElia Digitoncio", 
+  campo_nome_pai_completo: "AMEnotep Digitoncio"
+}.freeze

@@ -1,0 +1,65 @@
+AllCops:
+  TargetRubyVersion: 2.6.3
+  Exclude:
+    - 'bin/rails'
+    - 'bin/**/*'
+    - 'vendor/**/*'
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'script/**/*'
+    - 'spec/rails_helper.rb'
+
+# frozen_string_literal: true
+Style/FrozenStringLiteralComment:
+  Enabled: true
+
+# tamanho de caracteres de uma linha
+Metrics/LineLength:
+  Enabled: false
+
+# comentários de TODO ou outros tipos usando acentos e caracteres não ascii
+Style/AsciiComments:
+  Enabled: false
+
+# comentários na parte superior dos arquivos
+Style/Documentation:
+  Enabled: false
+
+# verifica o uso de 'And' e 'Or' e sugere o uso de '&&' e '||'
+Style/AndOr:
+  Enabled: true
+
+# verifica o uso de aspas simples
+Style/StringLiterals:
+  Enabled: false
+
+# verifica o uso de aspas simples dentro de uma interpolação
+Style/StringLiteralsInInterpolation:
+  Enabled: false
+
+# verifica se há seqüências de caracteres que são apenas uma expressão interpolada
+Style/UnneededInterpolation:
+  Enabled: false
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+# verifica se há terminações de linha no estilo Windows no código-fonte
+Layout/EndOfLine:
+  Enabled: false
+
+# valida complexidade do método
+Metrics/PerceivedComplexity:
+  Enabled: false
+
+# valida complexidade do método
+Metrics/CyclomaticComplexity:
+  Enabled: false
+
+# valida tamanho do método
+Metrics/AbcSize:
+  Enabled: false
+
+# valida se tamanho do método é maior que 10 caracteres
+Metrics/MethodLength:
+  Enabled: false

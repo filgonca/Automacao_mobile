@@ -1,0 +1,23 @@
+# config/cucumber.yml
+## YAML Template
+---
+android: PLATFORM=android -r features/support -r features/android -r features/step_definitions -r features/screens --exclude features/ios
+ios: PLATFORM=ios -r features/support -r features/ios -r features/step_definitions -r features/screens --exclude features/android
+
+
+
+# O comando "cucumber -p report" irá rodar todos os testes e gerar um relatorio na pasta report
+report: -p default -f html -o report/relatorio.html
+
+
+
+# altera o padrão do comando “cucumber” pera “cucumber” + todos os parâmetros inseridos
+default: -p html -p bdd -p json
+# exporta um relatório em formato html
+html: --format html --out=report.html
+# exibe no terminal o progresso da execução dos testes
+dot: --format progress
+# exibe no terminal o progresso dos testes no formato do bdd
+bdd: --format pretty
+# que exporta os logs de erro em formato json
+json: --format json -o "report.json"
