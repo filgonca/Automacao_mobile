@@ -3,23 +3,23 @@ O objetivo deste projeto é realizar um CRUD de clientes no app Cadastro de Clie
 <p> <br />
 
 ### **Utilizado**
-Ruby 2.6.3p62
-Appium Server v1.13.0
-Android Strudio (simulador)
-BDD
-Page Objects
-Cucumber
+* Ruby 2.6.3p62
+* Appium Server v1.13.0
+* Android Strudio (simulador)
+* BDD
+* Page Objects
+* Cucumber
 <p> <br />
 
 ### **Gemas**
-appium_console
-appium_lib
-cucumber
-pry
-report_builder
-rubocop
-solargraph
-rspec
+* appium_console
+* appium_lib
+* cucumber
+* pry
+* report_builder
+* rubocop
+* solargraph
+* rspec
 <p> <br />
 
 ### **Execução**
