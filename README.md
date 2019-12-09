@@ -1,4 +1,4 @@
-<h2>Cadastro de Clientes</h2>
+# h1 Cadastro de Clientes
 O objetivo deste projeto é realizar um CRUD de clientes no app Cadastro de Clientes, utilizando Ruby com BDD.
 
 
@@ -25,11 +25,11 @@ rspec
 **Execução**
 Todos os cenários execute o comando:
 
-cucumber
+*cucumber*
 
 Cenário específico execute o comando com a tag do BDD:
 
-cucumber -t @tag
+*cucumber -t @tag*
 
 
 **Evidências e Relatório**
@@ -38,8 +38,5 @@ Após a execução será criado um diretório na pasta raíz de nome screenshot 
 
 **Documentação**
 [Appium Docs](http://appium.io/docs/en/about-appium/api/#appium-api-documentation)
-<a href="http://appium.io/docs/en/about-appium/api/#appium-api-documentation">Appium Docs</a>
-<a href="https://ruby-doc.org/">Ruby Docs</a>
-<a href="https://cucumber.io/docs/cucumber/">Cucumber Docs</a>
-
-
+[Ruby Docs](https://ruby-doc.org/)
+[Cucumber Docs](https://cucumber.io/docs/cucumber/)
