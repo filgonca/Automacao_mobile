@@ -3,6 +3,7 @@ O objetivo deste projeto é realizar um CRUD de clientes no app Cadastro de Clie
 
 
 <strong>Utilizado</strong>
+<p>
 Ruby 2.6.3p62
 Appium Server v1.13.0
 Android Strudio (simulador)
