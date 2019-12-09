@@ -37,8 +37,8 @@ Após a execução será criado um diretório na pasta raíz de nome screenshot 
 
 
 <h4>Documentação</h4>
-Appium Docs - http://appium.io/docs/en/about-appium/api/#appium-api-documentation
-Ruby Docs - https://ruby-doc.org/
-Cucumber Docs - https://cucumber.io/docs/cucumber/
+<a href="http://appium.io/docs/en/about-appium/api/#appium-api-documentation">Appium Docs</a>
+<a href="https://ruby-doc.org/">Ruby Docs</a>
+<a href="https://cucumber.io/docs/cucumber/">Cucumber Docs</a>
 
 
