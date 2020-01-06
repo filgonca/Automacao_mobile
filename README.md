@@ -1,5 +1,5 @@
 ## Cadastro de Clientes
-O objetivo deste projeto é realizar um CRUD de clientes no app Cadastro de Clientes, utilizando Ruby com BDD.
+O objetivo deste projeto é realizar um CRUD de clientes no app mobile Cadastro de Clientes, utilizando Ruby com BDD e Appium.
 <p> <br />
 
 ### **Utilizado**
